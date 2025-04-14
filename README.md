@@ -35,7 +35,7 @@ MACTNet is a neural architecture designed for WiFi-based Human Activity Recognit
 ## Project Structure
 
 - **`config.py`**: Python-based file containing hyperparameters (batch size, sequence length, etc.), dataset paths, and other settings.
-- **`danesin.py`**: Main training script that trains the MACTNet model using parameters from `config.py`.
+- **`main.py`**: Main training script that trains the MACTNet model using parameters from `config.py`.
 - **`model.py`**: Contains the MACTNet class definition and any necessary custom layers or callbacks.
 - **`preprocessing.py`**: Functions for data preprocessing, segmentation, normalization, and label encoding.
 - **`test_and_transfer.py`**: Script demonstrating how to load a pretrained model, evaluate it on a new dataset, and optionally perform transfer learning.
