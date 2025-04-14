@@ -86,7 +86,7 @@ This script is provided under the **GNU General Public License v3 (GPL-3.0)**.
 Run the following command to start training:
 
 ```bash
-python Danesin.py
+python main.py
 ```
 
 - **What happens**:
@@ -136,4 +136,4 @@ python test_and_transfer.py
 For questions or comments, please reach out to the project maintainer:
 
 - **Name**: Federico Danesin
-- **Email**: [federico.danesin@studenti.unipd.it](mailto\:federico.danesin@studenti.unipd.it)
+- **Email**: [federicodanesin99@gmail.com](mailto\:federicodanesin99@gmail.com)
