@@ -3,6 +3,7 @@
 ## Overview
 
 MACTNet is a neural architecture designed for WiFi-based Human Activity Recognition (HAR). It leverages a dual-transformer encoder mechanism, analyzing Channel State Information (CSI) from both temporal and channel perspectives. This repository contains the code for training, testing, and optionally fine-tuning (transfer learning) the MACTNet model.
+📄 [Read the article (PDF)](./MATC-Net.pdf)
 
 ## Prerequisites
 
